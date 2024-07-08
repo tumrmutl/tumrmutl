@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tumrmutl" alt="tumrmutl" /></a> </p>
 
-- 🔭 I’m currently working on [RMUTL Private Course]([https://tumrmutl.thailandfxwarrior.com](https://lms.rmutl.ac.th/teachers/detail/24002453439513437/5fd51c39cb8f05637cb8e96df6ec9392edb3ec16ea62666620cda4fd8f8b3e72))
+- 🔭 I’m currently working on [RMUTL Private Course](https://lms.rmutl.ac.th/teachers/detail/24002453439513437/5fd51c39cb8f05637cb8e96df6ec9392edb3ec16ea62666620cda4fd8f8b3e72)
 - 🧘 Activity on [RMUTL e-profile](https://e-profile.rmutl.ac.th/profile/mr.kittinan)
 
 <h3 align="left">Connect with me:</h3>
