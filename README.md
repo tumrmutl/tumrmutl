@@ -6,4 +6,4 @@
 - 🏋️ I use daily : `.php`, `.js`, `.html`, `.css`, `.c`, `.cpp`, `.java`, `.py`, `.png`, `.docx`, `.pptx`, `.pdf`, `.mql4`
 - 🎓 RMUTL : [LMS](https://lms.rmutl.ac.th/teachers/detail/24002453439513437/5fd51c39cb8f05637cb8e96df6ec9392edb3ec16ea62666620cda4fd8f8b3e72), [E-profile](https://e-profile.rmutl.ac.th/profile/mr.kittinan), [ENGCC304](https://github.com/tumrmutl/ENGCC304-Computer-Programming), [ENGCE174](https://github.com/tumrmutl/ENGCE174-Object-Oriented-Programming)
 - 📊 Trader : [blog](https://www.thailandfxwarrior.com), [portfolio](https://www.forexfactory.com/tumlungaen)
-- B. Owner : 🍻[Beer balance](https://www.facebook.com/beerbalance159), 🍷[Mug de merlot](https://www.facebook.com/mugdemerlot)
+- 📍 B. Owner : 🍻[Beer balance](https://www.facebook.com/beerbalance159), 🍷[Mug de merlot](https://www.facebook.com/mugdemerlot)
