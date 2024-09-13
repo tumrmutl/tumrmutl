@@ -1,4 +1,3 @@
-<h1 align="center">Tum RMUTL</h1>
 <h3 align="center">Asst Prof · Trader · IM · Dev</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tumrmutl&label=Profile%20views&color=0e75b6&style=flat" alt="tumrmutl" /> </p>
