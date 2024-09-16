@@ -7,3 +7,4 @@
 - 📊 Trader : [blog](https://www.thailandfxwarrior.com), [portfolio](https://www.forexfactory.com/tumlungaen)
 - 📍 B. Owner : 🍻[Beer balance](https://www.facebook.com/beerbalance159), 🍷[Mug de merlot](https://www.facebook.com/mugdemerlot)
 - 🎬 fav. anime : 👴🏼`Attack on titan`, 🧪`Full Metal Alchemist`, 💀`Overlord`, 🧛‍♂️`Code Geass`
+- 💬 DM : `mr.kittinan@rmutl.ac.th`
