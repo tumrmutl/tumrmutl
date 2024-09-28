@@ -5,7 +5,7 @@
 ### 1. ภาระงานสอน
 ภาระงาน | หลักฐาน
 --- | ---
-1.1 ภาระงานสอนชั่วโมงทฤษฏี|1 [ตารางสอน](#)<br />2 [รายชื่อ นศ. วิชา ENGCC304](#)<br />3 [รายชื่อ นศ. วิชา ENGCE122](#)<br />4 [รายชื่อ นศ. วิชา ENGCE174](#)<br />5 [มคอ.3 วิชา ENGCC304](https://lms.rmutl.ac.th/tqf/detail/27453953985945704/922e2c99830074acf4a506a82f30031a)<br />6 [มคอ.3 วิชา ENGCE122](https://lms.rmutl.ac.th/tqf/detail/27453953985943334/30406d1bb8e6171a630ed93209adcd4d)<br />7 [มคอ.3 วิชา ENGCE174](https://lms.rmutl.ac.th/tqf/detail/28834716631175224/b4fb449ad94fe41bc91ba7df003847cd)<br />
+1.1 ภาระงานสอนชั่วโมงทฤษฏี|1 [ตารางสอน](#)<br />2 [รายชื่อ นศ. วิชา ENGCC304 Sec 9](https://drive.google.com/file/d/1M68WFaXAHS7291wcnrTNjBV2AkiIszyx/view?usp=drive_link)<br />3 [รายชื่อ นศ. วิชา ENGCC304 Sec 10](https://drive.google.com/file/d/1M68WFaXAHS7291wcnrTNjBV2AkiIszyx/view?usp=drive_link)<br />4 [รายชื่อ นศ. วิชา ENGCE122]()<br />5 [รายชื่อ นศ. วิชา ENGCE174](#)<br />6 [มคอ.3 วิชา ENGCC304](https://lms.rmutl.ac.th/tqf/detail/27453953985945704/922e2c99830074acf4a506a82f30031a)<br />7 [มคอ.3 วิชา ENGCE122](https://lms.rmutl.ac.th/tqf/detail/27453953985943334/30406d1bb8e6171a630ed93209adcd4d)<br />8 [มคอ.3 วิชา ENGCE174](https://lms.rmutl.ac.th/tqf/detail/28834716631175224/b4fb449ad94fe41bc91ba7df003847cd)<br />
 1.2 ภาระงานสอนชั่วโมงปฏิบัติ|[](#)<br />
 1.3 ภาระงานการดูแลนักศึกษารายวิชาฝึกงาน สหกิจฯ|[](#)<br /> 
 1.4 ภาระงานการเป็นที่ปรึกษาโครงงาน, โครงการ|[](#)<br /> 
