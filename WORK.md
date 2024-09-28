@@ -7,9 +7,9 @@
 --- | ---
 1.1 ภาระงานสอนชั่วโมงทฤษฏี|1 [ตารางสอน](#)<br />2 [รายชื่อ นศ. วิชา ENGCC304 Sec 9](https://drive.google.com/file/d/1M68WFaXAHS7291wcnrTNjBV2AkiIszyx/view?usp=drive_link)<br />3 [รายชื่อ นศ. วิชา ENGCC304 Sec 10](https://drive.google.com/file/d/1LuYjGM_SREasGi_SnWi0QH-I_t3rdREk/view?usp=drive_link)<br />4 [รายชื่อ นศ. วิชา ENGCE122 Sec 2](https://drive.google.com/file/d/1MkS8_cVIvMECzfp17nam60oq2Wo1sPrt/view?usp=drive_link)<br />5 [รายชื่อ นศ. วิชา ENGCE174 Sec 1](https://drive.google.com/file/d/16VYPNpWREvzUMKb-zn6gAoH3vInSesQ4/view?usp=drive_link)<br />6 [มคอ.3 วิชา ENGCC304](https://lms.rmutl.ac.th/tqf/detail/27453953985945704/922e2c99830074acf4a506a82f30031a)<br />7 [มคอ.3 วิชา ENGCE122](https://lms.rmutl.ac.th/tqf/detail/27453953985943334/30406d1bb8e6171a630ed93209adcd4d)<br />8 [มคอ.3 วิชา ENGCE174](https://lms.rmutl.ac.th/tqf/detail/28834716631175224/b4fb449ad94fe41bc91ba7df003847cd)<br />
 1.2 ภาระงานสอนชั่วโมงปฏิบัติ|1 [รายชื่อ นศ. วิชา ENGCC304 Sec 9 - L1](https://drive.google.com/file/d/1qmFv1ZXLrvEROy0y0EwuAg6A_4FQJnff/view?usp=drive_link)<br />2 [รายชื่อ นศ. วิชา ENGCC304 Sec 9 - L2](https://drive.google.com/file/d/1O7-_8FUoFhgNE09iax6xDxE1qHwHTxtc/view?usp=drive_link)<br />
-1.3 ภาระงานการดูแลนักศึกษารายวิชาฝึกงาน สหกิจฯ|x[](#)<br /> 
+1.3 ภาระงานการดูแลนักศึกษารายวิชาฝึกงาน สหกิจฯ|-[](#)<br /> 
 1.4 ภาระงานการเป็นที่ปรึกษาโครงงาน, โครงการ|1 [Preproject #1](https://drive.google.com/file/d/1pKv5UNVaCjp35mlBR70qUA2epOKeVXRO/view?usp=drive_link)<br />2 [Preproject #2](https://drive.google.com/file/d/1zmZ81kSbURKNHLtSvR0dgWhyKexy4XLr/view?usp=drive_link)<br />3 [Project #1](https://drive.google.com/file/d/1ze5z-dAPx8sAb0PPB7d1ZzNQMhlStI6z/view?usp=drive_link)<br />4 [Project #2](https://drive.google.com/file/d/1gFypH_xXznkSoUK7AmXZHFTdao3X9dlX/view?usp=drive_link)<br />5 [Project #3](https://drive.google.com/file/d/1MS_VPJSVAUCgfsoozqGeWbz-6GPYUm5e/view?usp=drive_link)<br />
-1.5 ภาระงานการจัดการเรียนการสอนโดยวิธีอื่นๆ|x[](#)<br /> 
+1.5 ภาระงานการจัดการเรียนการสอนโดยวิธีอื่นๆ|-[](#)<br /> 
 
 ### 2. ภาระงานวิจัยและงานวิชาการอื่น
 ภาระงาน | หลักฐาน
